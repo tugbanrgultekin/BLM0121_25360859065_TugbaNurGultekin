@@ -1,4 +1,4 @@
-git add. 
+git add .
 package com.bank.app.accounts;
 
 public class BankaHesabi {
