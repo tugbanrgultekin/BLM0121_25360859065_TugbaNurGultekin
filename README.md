@@ -1,3 +1,8 @@
 # BLM0121_25360859065_TugbaNurGultekin
 Nesneye Yönelik Programlama Proje Ödevi
-🏦 Banka Otomasyon SistemiBursa Teknik Üniversitesi BLM0121 Nesne Yönelik Programlama dersi projesidir.  📂 Paket Yapısıpeople: Kişi, Müşteri, Personel sınıfları.  accounts: Vadesiz ve Yatırım hesapları.  cards: Kredi kartı işlemleri.  service: Banka iş mantığı (BankaService).  main: Uygulama başlangıç noktası.  🛠️ Temel ÖzelliklerMüşteri & Hesap: Müşteri oluşturma, vadesiz/yatırım hesabı açma ve bakiye kontrolü ile silme.  Finansal İşlemler: Para yatırma, hesaplar arası transfer.  Kart İşlemleri: Kredi kartı tanımlama ve borç ödeme.  Otomatik Veri: IBAN, Kart No gibi değerlerin rastgele üretilmesi.  🔗 LinklerYouTube Sunumu: (https://www.youtube.com/watch?v=5Nrq1tJiGiA )   Rapor: TugbaNur_Gultekin_25360859065.pdf dosyasından detaylara ulaşabilirsiniz.  Geliştiren: [Tuğba Nur Gültekin] - [25360859065]   
+🏦 Banka Otomasyon Sistemi
+Bursa Teknik Üniversitesi BLM0121 Nesne Yönelik Programlama dersi projesidir. 
+📂 Paket Yapısıpeople: Kişi, Müşteri, Personel sınıfları.  accounts: Vadesiz ve Yatırım hesapları.  cards: Kredi kartı işlemleri.  service: Banka iş mantığı (BankaService).  main: Uygulama başlangıç noktası.  
+🛠️ Temel ÖzelliklerMüşteri & Hesap: Müşteri oluşturma, vadesiz/yatırım hesabı açma ve bakiye kontrolü ile silme.  Finansal İşlemler: Para yatırma, hesaplar arası transfer.  Kart İşlemleri: Kredi kartı tanımlama ve borç ödeme.  Otomatik Veri: IBAN, Kart No gibi değerlerin rastgele üretilmesi.  
+🔗 LinklerYouTube Sunumu: (https://www.youtube.com/watch?v=5Nrq1tJiGiA )   Rapor: TugbaNur_Gultekin_25360859065.pdf dosyasından detaylara ulaşabilirsiniz.  
+Geliştiren: [Tuğba Nur Gültekin] - [25360859065]   
